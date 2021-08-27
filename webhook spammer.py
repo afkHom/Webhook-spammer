@@ -15,6 +15,7 @@ def logo():
 	time.sleep(0.5)
 	print(" |_|  |_|\___/|_| |_| |_|")
 	time.sleep(0.5)
+	#yes i want to make your eyes bleed
 	print("by Hom#2913")
 	print("https://github.com/afkHom")
 def main():
